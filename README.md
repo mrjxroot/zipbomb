@@ -12,4 +12,4 @@ Professional Edition features:
 + crash system
 + Hidden drive
 + after running del files executions
- 	virus.mp4
+you can learn use with  	virus.mp4
